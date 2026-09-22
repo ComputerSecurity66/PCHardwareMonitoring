@@ -81,5 +81,13 @@ This project is a simple launcher/menu utility. It does not itself monitor hardw
 Review external software and download sources before installing or running them. Use software appropriate for your Windows system and follow the applicable licenses and terms of service.
 
 ## 📜 License
+**Computer Security Latest Proprietary License**
+**Copyright © 2026 VALOR. All Rights Reserved.**
 
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+This project is proprietary software and is not open source.
+
+Use, copying, modification, redistribution, publication, sublicensing,
+commercial use, and creation of derivative works are prohibited unless
+explicitly authorized in writing by the copyright holder.
+
+See the `LICENSE` file for the complete license terms.
